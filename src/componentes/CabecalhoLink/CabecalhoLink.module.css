@@ -1,0 +1,16 @@
+.link {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 1em;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 16px;
+}
+
+.linkDestacado {
+    text-decoration: underline;
+    color:#2271D1;
+    border-color:#2271D1;
+    box-shadow: 5px -5px 5px #2271D1;
+}

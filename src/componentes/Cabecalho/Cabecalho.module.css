@@ -1,0 +1,34 @@
+.cabecalho {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--cinza);
+    height: 125px;
+    align-items: center;
+    border-bottom: 4px solid #2271D1;
+}
+
+.logo {
+    padding-left: 40px;
+}
+
+.logo img {
+    background: transparent;
+}
+
+.container {
+    padding-right: 40px;
+    display: flex;
+    gap: 15px;
+}
+
+.container button {
+    height: 54px;
+    width: 180px;
+    text-align: center;
+    background: transparent;
+    border-radius: 15px;
+    border: solid 2px white;
+    color: white;
+}
+

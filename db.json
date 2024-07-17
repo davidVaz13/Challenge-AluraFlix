@@ -1,0 +1,37 @@
+{
+    "cards": [
+    {
+      "titulo": "Grande Nuvem de Magalhães",
+      "capa": "/imagens/galeria/foto-1.png",
+      "url": "https://www.youtube.com/watch?v=mMv6OSuitWw&ab_channel=TechWithTim",
+      "categoria": "frontend",
+      "id": "1",
+      "tagId": 1
+    },
+    {
+      "titulo": "Grande Nuvem de Magalhães",
+      "capa": "/imagens/galeria/foto-1.png",
+      "url": "https://www.youtube.com/watch?v=mMv6OSuitWw&ab_channel=TechWithTim",
+      "categoria": "frontend",
+      "id": "2",
+      "tagId": 2
+    },
+    {
+      "titulo": "Grande Nuvem de Magalhães",
+      "capa": "/imagens/galeria/foto-1.png",
+      "url": "https://www.youtube.com/watch?v=mMv6OSuitWw&ab_channel=TechWithTim",
+      "categoria": "mobile",
+      "id": "3",
+      "tagId": 3
+    },
+    {
+      "titulo": "Grande Nuvem de Magalhães",
+      "capa": "/imagens/galeria/foto-1.png",
+      "url": "https://www.youtube.com/watch?v=mMv6OSuitWw&ab_channel=TechWithTim",
+      "categoria": "backend",
+      "id": "4",
+      "tagId": 4
+    }
+]
+}
+  
